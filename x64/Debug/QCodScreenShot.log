@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/6/16 16:04:31。
+     1>项目“D:\outCode\screenCapture\QCodScreenShot\QCodScreenShot.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Generate moc_predefs.h
+       Link:
+         QCodScreenShot.vcxproj -> D:\outCode\screenCapture\QCodScreenShot\debug\QCodScreenShot.exe
+     1>已完成生成项目“D:\outCode\screenCapture\QCodScreenShot\QCodScreenShot.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.76

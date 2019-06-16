@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>resource/arrow.png</file>
+        <file>resource/camera.png</file>
+        <file>resource/door_out.png</file>
+        <file>resource/handle.png</file>
+        <file>resource/settings.png</file>
+        <file>resource/timer.png</file>
+        <file>resource/record.png</file>
+    </qresource>
+</RCC>
