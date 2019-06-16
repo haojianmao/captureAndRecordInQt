@@ -158,7 +158,7 @@ void MainWindow::on_startBtn_clicked()
         logo = "";
     }
     */
-    QString cmdLine = QString("ffmpeg -f gdigrab -framerate 60 -offset_x 0 -offset_y 0 -video_size 1600*900 -i desktop %1")
+    QString cmdLine = QString("ffmpeg -f gdigrab -framerate 300  -offset_x 0 -offset_y 0 -video_size 1600*900 -i desktop %1 -q 0 ")
            // .arg(m_recordRect.x())
           //  .arg(m_recordRect.y())
            // .arg(m_recordRect.width())
